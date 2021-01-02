@@ -4,4 +4,4 @@ A collection of Helm charts for deploying Fluid Framework and related services t
 
 ## Configuration
 
-`helm repo add kurtb https://kurtb.github.io/charts`
+`helm repo add chart-name https://kurtb.github.io/charts`
